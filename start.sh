@@ -14,12 +14,12 @@ ver=$VERSION_ID
 
 #Membuat Certificate
 country=ID
-state=Riau
-locality=Bagansiapiapi
-organization=ximfine.my.id
-organizationalunit=ximfine.my.id
+state=Palembang
+locality=Palembang
+organization=https://t.me/SXTCP
+organizationalunit=https://t.me/SXTCP
 commonname=ximfinevpn
-email=wildysheverando.net@gmail.com
+email=xbotprojects@gmail.com
 
 #GASKUNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
 cd
