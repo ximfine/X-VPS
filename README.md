@@ -9,3 +9,5 @@
 wget https://raw.githubusercontent.com/ximfine/X-VPS/main/start.sh && chmod +x start.sh && ./start.sh
 
 ```
+# BETA TEST
+https://t.me/X_Projectss
